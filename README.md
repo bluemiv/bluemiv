@@ -24,13 +24,13 @@
 ### Github Stats
 
 <p align="center">
-<a href="#Github Stats">
+<a href="#github-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=bluemiv&show_icons=true&theme=tokyonight" alt="Github stats" />
 </a>
 </p>
 
 <p align="center">
-<a href="#Github Stats">
+<a href="#github-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluemiv&theme=tokyonight" alt="Github stats" />
 </a>
 </p>
