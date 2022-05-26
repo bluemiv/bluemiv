@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:f64f59&height=300&section=header&text=Taehong%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descAlignY=52&descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=300&section=header&text=Taehong%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descAlignY=52&descAlign=72&fontColor=ffffff)
 
 ### Skills
 
