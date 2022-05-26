@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
-
-### Hi there, I'm Taehong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:f64f59&height=300&section=header&text=Taehong%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descAlignY=52&descAlign=72)
 
 <!--
 **bluemiv/bluemiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
