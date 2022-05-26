@@ -38,6 +38,10 @@
   <a href="#front-end"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/></a>
   <a href="#front-end"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></a>
   <a href="#front-end"><img src="https://img.shields.io/badge/Rollup.js-EC4A3F?style=flat-square&logo=Rollup.js&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="#front-end"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
+  <a href="#front-end"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
   <a href="#front-end"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 </p>
 
