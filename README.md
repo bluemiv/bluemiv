@@ -47,7 +47,6 @@
 
 #### Back-end
 
-
 <p align="center">
   <a href="#back-end"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
   <a href="#back-end"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -80,7 +79,6 @@
 
 #### Cowork
 
-
 <p align="center">
   <a href="#cowork"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
   <a href="#cowork"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>
@@ -91,17 +89,21 @@
 </p>
 
 
-### Project
+## Project
 
-#### Tistory Blog Skin
+### Tistory Blog Skin
+
+블로그 플랫폼 티스토리 스킨을 별도의 라이브러리 없이 개발하여, 무료 배포중입니다.
+
+<a href="https://memostack.tistory.com/284" target="_blank">Tistory Berry Skin 2.0 배포</a>
 
 <p align="center">
-<a href="https://github.com/bluemiv/tistory_berry_skin">
+<a href="https://github.com/bluemiv/tistory_berry_skin" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluemiv&repo=tistory_berry_skin&theme=tokyonight" />
 </a>
 </p>
 
-### Github Stats
+## Github Stats
 
 <p align="center">
 <a href="#github-stats">
