@@ -128,3 +128,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluemiv&theme=tokyonight" alt="Github stats" />
 </a>
 </p>
+
+
+## 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=bluemiv)](https://solved.ac/bluemiv)
