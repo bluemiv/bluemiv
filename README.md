@@ -134,3 +134,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bluemiv)](https://solved.ac/bluemiv)
+
+![](https://leetcard.jacoblin.cool/bluemiv?theme=light,unicorn)
+
