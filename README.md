@@ -135,13 +135,12 @@
 ### leetcode
 
 <p align="center">
-![](https://leetcard.jacoblin.cool/bluemiv?theme=nord,unicorn&ext=activity)
+  <img src="https://leetcard.jacoblin.cool/bluemiv?theme=nord,unicorn&ext=activity" alt="leetcode status" />
 </p>
 
 ### 백준
 
 <p align="center">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=bluemiv)](https://solved.ac/bluemiv)
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=bluemiv" alt="baekjoon statua" />
 </p>
 
