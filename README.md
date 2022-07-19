@@ -130,10 +130,18 @@
 </p>
 
 
-## 
+## Coding Test
 
+### leetcode
+
+<p align="center">
+![](https://leetcard.jacoblin.cool/bluemiv?theme=nord,unicorn&ext=activity)
+</p>
+
+### 백준
+
+<p align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bluemiv)](https://solved.ac/bluemiv)
-
-![](https://leetcard.jacoblin.cool/bluemiv?theme=nord,unicorn&ext=activity)
+</p>
 
