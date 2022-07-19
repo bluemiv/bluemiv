@@ -132,15 +132,15 @@
 
 ## Coding Test
 
-### leetcode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/bluemiv?theme=nord&ext=activity" alt="leetcode status" />
-</p>
-
 ### 백준
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=bluemiv" alt="baekjoon statua" />
+</p>
+
+### leetcode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/bluemiv?theme=nord&ext=activity" alt="leetcode status" />
 </p>
 
