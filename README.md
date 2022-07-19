@@ -135,7 +135,7 @@
 ### leetcode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/bluemiv?theme=nord,unicorn&ext=activity" alt="leetcode status" />
+  <img src="https://leetcard.jacoblin.cool/bluemiv?theme=nord&ext=activity" alt="leetcode status" />
 </p>
 
 ### 백준
