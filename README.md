@@ -86,24 +86,6 @@
 
 ## Project
 
-###
-
-### Tistory Blog Skin
-
-- 요약: 블로그 플랫폼, Tistory 스킨을 별도의 라이브러리 없이 개발하여, 무료 배포 중입니다.
-- 기간: 1주일
-- 관련 링크: <a href="https://memostack.tistory.com/284" target="_blank">Tistory Berry Skin 2.0 배포</a>
-- skills
-
-
-<a href="#tistory-blog-skin"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<a href="#tistory-blog-skin"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<a href="#tistory-blog-skin"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<a href="#tistory-blog-skin"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<a href="#tistory-blog-skin"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/></a>
-<a href="#tistory-blog-skin"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/></a>
-<a href="#tistory-blog-skin"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
 <p align="center">
 <a href="https://github.com/bluemiv/tistory_berry_skin" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluemiv&repo=tistory_berry_skin&theme=tokyonight" />
